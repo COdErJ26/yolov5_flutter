@@ -1,5 +1,10 @@
+# Ignore virtual environment folder
 yolov5_api_env/
+
+# Ignore Python bytecode and log files
 __pycache__/
 *.pyc
 *.log
 
+# Ignore any system files
+.DS_Store
